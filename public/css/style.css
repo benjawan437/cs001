@@ -1,0 +1,43 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    
+}
+/*header {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: right;
+    font-size: 15px;
+  }
+div.third {
+    opacity: 0.8;
+  }*/ 
+.headercs {
+    padding: 70px;
+    height: 190px;
+    font-size: 70px;
+    color: rgb(152, 237, 243);
+    background-image: url(images/k20.jpg);  
+    text-align: left;
+
+}
+nav {
+    float: left;
+    width: 20%;
+    height: 400px; 
+    background: rgb(0, 0, 0);
+    padding: 30px;
+    
+  }
+/*div.third {
+    opacity: 0.8;
+
+  }*/ 
+article {
+    float: left;
+    padding: 36px;
+    width: 70%;
+    background-color: #ffffff;
+    height: 390px;
+    color: rgb(93, 170, 184); 
+  
+}
